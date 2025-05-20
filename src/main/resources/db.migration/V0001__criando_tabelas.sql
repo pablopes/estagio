@@ -1,0 +1,14 @@
+CREATE TABLE IF NOT EXISTS distance(
+    id SERIAL PRIMARY KEY,
+    fromcitie TEXT NOT NULL,
+    tocitie TEXT NOT NULL,
+    total  NUMERIC(5,0) NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS team(
+    id SERIAL PRIMARY KEY,
+    name TEXT NOT NULL,
+    place TEXT NOT NULL
+);
+
+ALTER TABLE team ADD COLUMN currentplace TEXT;
