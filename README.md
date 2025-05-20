@@ -90,7 +90,7 @@ Este projeto foi desenvolvido utilizando:
 ---
 
 ## 👨‍💻 Autor
-- **Pablo Fernando Lopes Costa** - [GitHub](https://github.com/seu-usuario)
+- **Pablo Fernando Lopes Costa** - [GitHub](https://github.com/pablopes)
 
 ---
 
