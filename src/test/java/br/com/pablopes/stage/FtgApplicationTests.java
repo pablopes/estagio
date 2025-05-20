@@ -1,4 +1,4 @@
-package br.com.pablopes.tcc;
+package br.com.pablopes.stage;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
